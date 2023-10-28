@@ -18,7 +18,7 @@
                         <div class="col-lg-8">
                             <div class="blog-wrap shadow mb-70 xs-mb-50">
                                 <div class="image-part">
-                                    <a href="blog-single.html"><img src="assets/images/blog/1.jpg" alt=""></a>
+                                    <a href="blog-single.html"><img src="{{ asset('assets/images/blog/1.jpg') }}" alt=""></a>
                                 </div>
                                 <div class="content-part">
                                     <h3 class="title mb-10"><a href="blog-single.html">Covid-19 threatens the next generation of smartphones</a></h3>

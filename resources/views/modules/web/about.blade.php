@@ -18,7 +18,7 @@
                 <div class="row y-middle mb-64 lg-mb-30 md-mb-0">
                     <div class="col-lg-6 md-mb-95">
                         <div class="image-part">
-                            <img src="assets/images/about/inner/left-img.jpg" alt="">
+                            <img src="{{ asset('assets/images/about/inner/left-img.jpg') }}" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 pl-50 md-pl-15 pr-50 lg-pr-15">
@@ -66,7 +66,7 @@
                     data-md-device-nav="false" data-md-device-dots="false">
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/1.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/1.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Mike Jason</a></h3>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/2.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/2.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Francis Ibikunle</a></h3>
@@ -104,7 +104,7 @@
                     </div>
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/3.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/3.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Ara Gates</a></h3>
@@ -123,7 +123,7 @@
                     </div>
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/4.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/4.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Claire Divas</a></h3>
@@ -142,7 +142,7 @@
                     </div>
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/5.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/5.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Isabella Croline</a></h3>
@@ -161,7 +161,7 @@
                     </div>
                     <div class="team-item">
                         <div class="team-image">
-                            <img src="assets/images/team/6.jpg" alt="Team Image">
+                            <img src="{{ asset('assets/images/team/6.jpg') }}" alt="Team Image">
                         </div>
                         <div class="text-bottom">
                             <h3 class="person-name"><a href="team-single.html">Rafian Sagar</a></h3>
