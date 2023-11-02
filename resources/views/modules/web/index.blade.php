@@ -6,8 +6,8 @@
         <div id="rs-slider" class="rs-slider slider1">
             <div class="bend niceties">
                 <div id="nivoSlider" class="slides">
-                    <img src="assets/images/slider/carousel-1.png" alt="" title="#slide-1" />
-                    <img src="assets/images/slider/carousel-1.png" alt="" title="#slide-1" />
+                    <img src="app/public/assets/images/slider/carousel-1.png" alt="" title="#slide-1" />
+                    <img src="app/public/assets/images/slider/carousel-1.png" alt="" title="#slide-1" />
                 </div>
                 <!-- Slide 1 -->
                 <div id="slide-1" class="slider-direction">
@@ -84,7 +84,7 @@
                             <div class="col-md-6 mb-30">
                                 <div class="service-wrap mb-30">
                                     <div class="icon-part">
-                                        <img src="assets/images/services/icons/1.png" alt="">
+                                        <img src="app/public/assets/images/services/icons/1.png" alt="">
                                     </div>
                                     <div class="content-part">
                                         <h5 class="title"><a href="services-single.html">Proyección y
@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="service-wrap">
                                     <div class="icon-part">
-                                        <img src="assets/images/services/icons/2.png" alt="">
+                                        <img src="app/public/assets/images/services/icons/2.png" alt="">
                                     </div>
                                     <div class="content-part">
                                         <h5 class="title"><a href="services-single.html">Tecnológica <br>
@@ -115,7 +115,7 @@
                             <div class="col-md-6 mt-50 sm-mt-0">
                                 <div class="service-wrap mb-30">
                                     <div class="icon-part">
-                                        <img src="assets/images/services/icons/3.png" alt="">
+                                        <img src="app/public/assets/images/services/icons/3.png" alt="">
                                     </div>
                                     <div class="content-part">
                                         <h5 class="title"><a href="services-single.html">Iniciativas Beneficiosas</a>
@@ -128,7 +128,7 @@
                                 </div>
                                 <div class="service-wrap">
                                     <div class="icon-part">
-                                        <img src="assets/images/services/icons/4.png" alt="">
+                                        <img src="app/public/assets/images/services/icons/4.png" alt="">
                                     </div>
                                     <div class="content-part">
                                         <h5 class="title"><a href="services-single.html">Gestión Total y
@@ -154,7 +154,7 @@
             <div class="container">
                 <div class="row y-bottom">
                     <div class="col-lg-6 padding-0">
-                        <img src="assets/images/about/about1.png" alt="">
+                        <img src="app/public/assets/images/about/about1.png" alt="">
                     </div>
                     <div class="col-lg-6 pl-66 pt-75 pb-75 md-pt-42 md-pb-72">
                         <div class="sec-title mb-30 md-mb-42">
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 md-mb-50">
-                        <img src="assets/images/about/about3.png" alt="">
+                        <img src="app/public/assets/images/about/about3.png" alt="">
                     </div>
                 </div>
             </div>
@@ -287,11 +287,11 @@
                     <div class="col-lg-6 md-order-first md-mb-30">
                         <div class="row gutter-20">
                             <div class="col-6">
-                                <img src="assets/images/about/home6/1.jpg" alt="">
+                                <img src="app/public/assets/images/about/home6/1.jpg" alt="">
                             </div>
                             <div class="col-6 mt-30">
-                                <img class="mb-20" src="assets/images/about/home6/2.jpg" alt="">
-                                <img src="assets/images/about/home6/3.jpg" alt="">
+                                <img class="mb-20" src="app/public/assets/images/about/home6/2.jpg" alt="">
+                                <img src="app/public/assets/images/about/home6/3.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -324,7 +324,7 @@
                             <div class="col-md-4 sm-mb-30">
                                 <div class="rs-counter-list plus">
                                     <div class="icon-part">
-                                        <img src="assets/images/whychooseus/a.png" alt="">
+                                        <img src="app/public/assets/images/whychooseus/a.png" alt="">
                                     </div>
                                     <div class="counter-text">
                                         <div class="rs-count">2852</div>
@@ -335,7 +335,7 @@
                             <div class="col-md-4 sm-mb-30">
                                 <div class="rs-counter-list plus">
                                     <div class="icon-part">
-                                        <img src="assets/images/whychooseus/b.png" alt="">
+                                        <img src="app/public/assets/images/whychooseus/b.png" alt="">
                                     </div>
                                     <div class="counter-text">
                                         <div class="rs-count">975 </div>
@@ -346,7 +346,7 @@
                             <div class="col-md-4">
                                 <div class="rs-counter-list thousand">
                                     <div class="icon-part">
-                                        <img src="assets/images/whychooseus/c.png" alt="">
+                                        <img src="app/public/assets/images/whychooseus/c.png" alt="">
                                     </div>
                                     <div class="counter-text">
                                         <div class="rs-count">3000</div>
@@ -366,7 +366,7 @@
                 <div class="container">
                     <div class="row y-middle md-col-padding">
                         <div class="col-lg-6 pr-25 md-mb-30">
-                            <img src="assets/images/about/about11-2.png" alt="">
+                            <img src="app/public/assets/images/about/about11-2.png" alt="">
                         </div>
                         <div class="col-lg-6 pl-50 lg-pl-30">
                             <div class="sec-title mb-23">
@@ -576,7 +576,7 @@
                     data-md-device-nav="false" data-md-device-dots="true">
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/1.jpg" alt="">
+                            <img src="app/public/assets/images/blog/1.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -587,7 +587,7 @@
                                     smartphones</a></h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -598,7 +598,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/2.jpg" alt="">
+                            <img src="app/public/assets/images/blog/2.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -609,7 +609,7 @@
                             </h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -620,7 +620,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/3.jpg" alt="">
+                            <img src="app/public/assets/images/blog/3.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -631,7 +631,7 @@
                                     night.</a></h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -642,7 +642,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/4.jpg" alt="">
+                            <img src="app/public/assets/images/blog/4.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -654,7 +654,7 @@
                                     fifth</a></h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -665,7 +665,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/5.jpg" alt="">
+                            <img src="app/public/assets/images/blog/5.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -677,7 +677,7 @@
                             </h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -688,7 +688,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/6.jpg" alt="">
+                            <img src="app/public/assets/images/blog/6.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -700,7 +700,7 @@
                             </h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
@@ -711,7 +711,7 @@
                     </div>
                     <div class="blog-wrap">
                         <div class="img-part">
-                            <img src="assets/images/blog/3.jpg" alt="">
+                            <img src="app/public/assets/images/blog/3.jpg" alt="">
                             <div class="fly-btn">
                                 <a href="blog-single.html"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -722,7 +722,7 @@
                                     night.</a></h3>
                             <div class="blog-meta">
                                 <div class="user-data">
-                                    <img src="assets/images/blog/avatar/1.png" alt="">
+                                    <img src="app/public/assets/images/blog/avatar/1.png" alt="">
                                     <span>admin</span>
                                 </div>
                                 <div class="date">
