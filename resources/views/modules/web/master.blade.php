@@ -11,46 +11,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon -->
     <link rel="apple-touch-icon" href="https://rstheme.com/products/html/reobiz/apple-touch-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="public/assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="app/public/assets/images/fav.png">
     <!-- Bootstrap v4.4.1 css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <link rel="stylesheet"
         href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css">
 
     <!-- animate css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/animate.css">
     <!-- aos css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/aos.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/aos.css">
     <!-- owl.carousel css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/owl.carousel.css">
     <!-- slick css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/slick.css">
     <!-- off canvas css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/off-canvas.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/off-canvas.css">
     <!-- linea-font css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/fonts/linea-fonts.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/fonts/linea-fonts.css">
     <!-- flaticon css  -->
-    <link rel="stylesheet" type="text/css" href="public/assets/fonts/flaticon.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/fonts/flaticon.css">
     <!-- magnific popup css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/magnific-popup.css">
     <!-- Main Menu css -->
-    <link rel="stylesheet" href="public/assets/css/rsmenu-main.css">
+    <link rel="stylesheet" href="app/public/assets/css/rsmenu-main.css">
     <!-- nivo slider CSS -->
-    <link rel="stylesheet" type="text/css" href="public/assets/inc/custom-slider/css/nivo-slider.css">
-    <link rel="stylesheet" type="text/css" href="public/assets/inc/custom-slider/css/preview.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/inc/custom-slider/css/nivo-slider.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/inc/custom-slider/css/preview.css">
     <!-- rsmenu transitions css -->
-    <link rel="stylesheet" href="public/assets/css/rsmenu-transitions.css">
+    <link rel="stylesheet" href="app/public/assets/css/rsmenu-transitions.css">
     <!-- spacing css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/rs-spacing.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/rs-spacing.css">
     <!-- style css -->
     <link rel="stylesheet" type="text/css" href="{{ asset('style.css') }}">
     <!-- This stylesheet dynamically changed from style.less -->
     <!-- responsive css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/responsive.css">
     <!-- font-awesome css -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="app/public/assets/css/font-awesome.min.css">
 </head>
 
 <body class="defult-home">
@@ -98,7 +98,7 @@
                     <div class="row">
                         <div class="col-lg-3">
                             <div class="logo-area">
-                                <a href="{{ route('web.index') }}"><img src="public/assets/images/logo-adt.png" alt="logo"></a>
+                                <a href="{{ route('web.index') }}"><img src="app/public/assets/images/logo-adt.png" alt="logo"></a>
                             </div>
                         </div>
                         <div class="col-lg-9 text-right">
@@ -162,7 +162,7 @@
                     <div class="col-lg-4 col-md-12 col-sm-12 footer-widget md-mb-39">
                         <div class="about-widget pr-15">
                             <div class="logo-part">
-                                <a href="index.html"><img src="public/assets/images/logo-adt-black.png"
+                                <a href="index.html"><img src="app/public/assets/images/logo-adt-black.png"
                                         alt="Footer Logo"></a>
                             </div>
                             <p class="desc">Somos un equipo de empresarios, profesionales y técnicos, con 25 años de
@@ -204,7 +204,7 @@
                         <div class="footer-post">
                             <div class="post-wrap mb-15">
                                 <div class="post-img">
-                                    <a href="blog-single.html"><img src="public/assets/images/blog/small/1.jpg"
+                                    <a href="blog-single.html"><img src="app/public/assets/images/blog/small/1.jpg"
                                             alt=""></a>
                                 </div>
                                 <div class="post-desc">
@@ -218,7 +218,7 @@
                             </div>
                             <div class="post-wrap mb-15">
                                 <div class="post-img">
-                                    <a href="blog-single.html"><img src="public/assets/images/blog/small/2.jpg"
+                                    <a href="blog-single.html"><img src="app/public/assets/images/blog/small/2.jpg"
                                             alt=""></a>
                                 </div>
                                 <div class="post-desc">
@@ -231,7 +231,7 @@
                             </div>
                             <div class="post-wrap">
                                 <div class="post-img">
-                                    <a href="blog-single.html"><img src="public/assets/images/blog/small/3.jpg"
+                                    <a href="blog-single.html"><img src="app/public/assets/images/blog/small/3.jpg"
                                             alt=""></a>
                                 </div>
                                 <div class="post-desc">
@@ -291,44 +291,44 @@
     <!-- Search Modal End -->
 
     <!-- modernizr js -->
-    <script src="public/assets/js/modernizr-2.8.3.min.js"></script>    
+    <script src="app/public/assets/js/modernizr-2.8.3.min.js"></script>    
     <!-- jquery latest version -->
-    <script src="public/assets/js/jquery.min.js"></script>
+    <script src="app/public/assets/js/jquery.min.js"></script>
     <!-- Bootstrap v4.4.1 js -->
-    <script src="public/assets/js/bootstrap.min.js"></script>
+    <script src="app/public/assets/js/bootstrap.min.js"></script>
     <!-- Menu js -->
-    <script src="public/assets/js/rsmenu-main.js"></script>
+    <script src="app/public/assets/js/rsmenu-main.js"></script>
     <!-- op nav js -->
-    <script src="public/assets/js/jquery.nav.js"></script>
+    <script src="app/public/assets/js/jquery.nav.js"></script>
     <!-- owl.carousel js -->
-    <script src="public/assets/js/owl.carousel.min.js"></script>
+    <script src="app/public/assets/js/owl.carousel.min.js"></script>
     <!-- Slick js -->
-    <script src="public/assets/js/slick.min.js"></script>
+    <script src="app/public/assets/js/slick.min.js"></script>
     <!-- isotope.pkgd.min js -->
-    <script src="public/assets/js/isotope.pkgd.min.js"></script>
+    <script src="app/public/assets/js/isotope.pkgd.min.js"></script>
     <!-- imagesloaded.pkgd.min js -->
-    <script src="public/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="app/public/assets/js/imagesloaded.pkgd.min.js"></script>
     <!-- wow js -->
-    <script src="public/assets/js/wow.min.js"></script>
+    <script src="app/public/assets/js/wow.min.js"></script>
     <!-- aos js -->
-    <script src="public/assets/js/aos.js"></script>
+    <script src="app/public/assets/js/aos.js"></script>
     <!-- Skill bar js -->
-    <script src="public/assets/js/skill.bars.jquery.js"></script>
-    <script src="public/assets/js/jquery.counterup.min.js"></script>
+    <script src="app/public/assets/js/skill.bars.jquery.js"></script>
+    <script src="app/public/assets/js/jquery.counterup.min.js"></script>
     <!-- counter top js -->
-    <script src="public/assets/js/waypoints.min.js"></script>
+    <script src="app/public/assets/js/waypoints.min.js"></script>
     <!-- video js -->
-    <script src="public/assets/js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="app/public/assets/js/jquery.mb.YTPlayer.min.js"></script>
     <!-- magnific popup js -->
-    <script src="public/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="app/public/assets/js/jquery.magnific-popup.min.js"></script>
     <!-- Nivo slider js -->
-    <script src="public/assets/inc/custom-slider/js/jquery.nivo.slider.js"></script>
+    <script src="app/public/assets/inc/custom-slider/js/jquery.nivo.slider.js"></script>
     <!-- plugins js -->
-    <script src="public/assets/js/plugins.js"></script>
+    <script src="app/public/assets/js/plugins.js"></script>
     <!-- contact form js -->
-    <script src="public/assets/js/contact.form.js"></script>
+    <script src="app/public/assets/js/contact.form.js"></script>
     <!-- main js -->
-    <script src="public/assets/js/main.js"></script>
+    <script src="app/public/assets/js/main.js"></script>
 </body>
 
 </html>
