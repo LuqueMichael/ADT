@@ -45,7 +45,7 @@
     <!-- spacing css -->
     <link rel="stylesheet" type="text/css" href="app/public/assets/css/rs-spacing.css">
     <!-- style css -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('app/public/style.css') }}">
     <!-- This stylesheet dynamically changed from style.less -->
     <!-- responsive css -->
     <link rel="stylesheet" type="text/css" href="app/public/assets/css/responsive.css">
